@@ -10,6 +10,7 @@ public class MainOrder
 {
     public static void main(String[] args)
     {
+        System.out.println("push before pull");
         System.out.println("test push2");
         SpringApplication.run(MainOrder.class,args);
     }
