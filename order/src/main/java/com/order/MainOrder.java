@@ -10,7 +10,7 @@ public class MainOrder
 {
     public static void main(String[] args)
     {
-        int i=1;
+        System.out.println("test push");
         SpringApplication.run(MainOrder.class,args);
     }
 }
